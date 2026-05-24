@@ -35,7 +35,7 @@ Dashboards include:
 
 ## 📂 Dataset
 The dataset used in this project is publicly available on Kaggle:  
-👉 [Global Superstore Sales Dataset]([https://www.kaggle.com/datasets/whenamancodes/global-superstore-sales-dataset](https://www.kaggle.com/datasets/okhiriadaveoseghale/100000-sales-records])
+👉 [Global Superstore Sales Dataset](https://www.kaggle.com/datasets/whenamancodes/global-superstore-sales-dataset](https://www.kaggle.com/datasets/okhiriadaveoseghale/100000-sales-records)
 
 ---
 
